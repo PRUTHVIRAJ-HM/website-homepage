@@ -1,0 +1,181 @@
+/* <uniquifier>: Use a unique and descriptive class name */
+/* <weight>: Use a value from 100 to 900*/
+
+
+body{
+    background-color:white;
+    padding:0px;
+    margin:0px;
+   
+    font-family: "Inter";
+}
+.bodyl{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.logo{
+    color:#54BD95;
+
+}
+.nav{
+    display: inline-flex;
+}
+.navelem{
+    margin-left: 20%;
+    display: inline-flex;
+    flex-direction: row;
+    gap:5%;
+    color: #A6A6A6;
+}
+.navbuttons{
+    display: inline-flex;
+    gap:10px;
+    float: right;
+    margin-top: 3vh;
+
+}
+.logbtn{
+    border: none;
+    color:#A6A6A6;
+    padding:5px;
+    border-radius: 27px;
+    background-color:whitesmoke;
+    text-align: center;
+    font-weight:600;
+    font-size: 16px;
+    background-color:white;
+
+}
+.signbtn{
+    
+    border:none;
+    background-color:#54BD95;
+    padding:5px;
+    font-size: 16px;
+    text-align: center;
+    border-radius: 10px;
+    font-weight: 600;
+    color:white;
+    
+}
+
+
+
+
+
+
+
+
+.herotitle{
+    font-size: 70px;
+    font-weight: bold;
+    width:555px;
+    text-align: left;
+}
+.doodle{
+    width:409px;
+    height: 26px;
+    position:relative;
+    top:-68px;
+}
+.herodes{
+    font-size: 18px;
+    font-weight:400;
+    width:451px;
+    position: relative;
+    top:-60px;
+}
+.buttons{
+    position: relative;
+    top:-30px;
+}
+.tryh{
+    font-size: 18px;
+    background-color: #54BD95;
+    color: white;
+    text-align: center;
+    padding:10px;
+    border-radius: 40px;
+    display: inline-flex;
+    border:none;
+}
+.demo{
+    font-size:18px;
+    color:black;
+    padding:10px;
+    border: 0.1px black solid;
+    border-radius:40px;
+    display: inline-flex;
+    margin-left:2%;
+   
+}
+
+
+
+.affiliate{
+    position:relative;
+    top:20vh;
+}
+.afftitle{
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+}
+.clients{
+    display: inline-flex;
+    flex-direction: row;
+}
+.clients>img{
+    margin-left:6.5%;
+}
+
+
+
+.margin-cont{
+    margin-left: 10%;
+    margin-right: 10%;
+    position: relative;
+    top:50px;
+}
+.abouts{
+    background-color:#F9F8FE;
+    position: relative;
+    top:300px;
+    height:541px;
+
+}
+.abtitle{
+    width:617px;
+    font-size: 50px;
+    font-weight:600;
+}
+.abcontent{
+    width: 644px;
+
+}
+.ratings{
+    margin-top: 40px;
+    display: inline-flex;
+    flex-direction: row;
+    gap:30%;
+}
+.ratbrand{
+    color: #858585;
+    font-weight:bolder;
+    font-size: 18px;
+
+}
+footer>p{
+    position: relative;
+    top:241px;
+    font-family:"Inter";
+    color: black;
+    font-size:18px;
+    font-weight: 500;
+    margin-left: 10%;
+    display: inline-flex;
+}
+hr{
+    position: relative;
+    top:240px;
+}
